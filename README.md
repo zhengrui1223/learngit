@@ -1,3 +1,3 @@
 # learngit
 study git, come on !!!
-Createing a new branch quick & simple.
+Creating a new branch is quick and simple.
